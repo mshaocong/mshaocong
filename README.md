@@ -2,7 +2,7 @@
 
 I am Shaocong Ma. Welcome to my profile! 
 
-📫 How to reach me: [Email Me](mailto:scma0908@gmail.com)
+📫 Contact: scma0908@gmail.com
 
 <!--
 **mshaocong/mshaocong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
